@@ -8,4 +8,4 @@ Nova Browser is a VB.NET web browser created with Visual Studio 2017 Community E
 
 **Required Program:** Internet Explorer *(IE is the browser's engine)*
 
-**Required .NET Framework:** .NET Framework 4.6.2 or newer
+**Required .NET Framework:** .NET Framework 4.5.2 or newer
